@@ -48,7 +48,7 @@ else:
 
 ```
 c) if..else
-``
+```
 def compare(): 
     a = input("Enter a value for A: ") 
     b = input("Enter a value for B: ") 
@@ -66,7 +66,7 @@ def compare():
 
 compare()
 
-``
+```
 d)switch
 ```
 def switch(): 
@@ -85,7 +85,7 @@ switch()
 
 ```
 e) for
-``
+```
 def iterate(): 
     string = input("Enter a string: ") 
     for i in string: 
@@ -93,20 +93,12 @@ def iterate():
 
 iterate()
 
-``
-
-
-
-
+```
 
 
 
 
 ### Output:
-
-
-
-
 
 
 
