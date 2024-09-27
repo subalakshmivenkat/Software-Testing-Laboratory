@@ -5,7 +5,6 @@
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
 ### Algorithm:
-
 1.  Start the program.
 2.	Read an integer input number.
 3.	Initialize the variables current_digit, sum = 0, and num = number.
@@ -34,8 +33,6 @@ def binary_search(arr, x):
             return mid 
 
     return -1  
-
-
 arr = [2, 3, 4, 10, 40]
 x = input("Enter the element to be searched: ")
 
@@ -52,6 +49,7 @@ except:
 ```
 ### Output:
 ![image](https://github.com/user-attachments/assets/e49f735e-6326-40bb-b9cc-e809aa56c218)
+
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
