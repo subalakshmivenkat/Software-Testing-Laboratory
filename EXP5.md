@@ -1,3 +1,4 @@
+## EX:05 BINARY SEARCH
 # Register No.:212222040162
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
